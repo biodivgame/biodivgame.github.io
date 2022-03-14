@@ -5,6 +5,7 @@ title = "Biodiversity game!"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+publish = "docs/"
 theme = "hugo-sustain"
 
 [permalinks]
