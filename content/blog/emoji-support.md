@@ -1,6 +1,6 @@
 +++
 author = "Hugo Authors"
-title = "Emoji Support IS FUN FOR MINA"
+title = "Emoji Support WAS NOT FUN FOR ELIAS"
 date = "2019-03-05"
 description = "Guide to emoji usage in Hugo"
 tags = [
