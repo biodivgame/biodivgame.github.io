@@ -1,8 +1,8 @@
 +++
-author = "Elias"
+author = "Hugo authors"
 title = "Entrance information / Informasjon ved inngangen"
 date = "2022-03-10"
-description = "Entrence information about the biodiversity game / Informasjon ved inngangen om spillet om biologisk mangfold"
+description = "Entrance information about the biodiversity game / Informasjon ved inngangen om spillet om biologisk mangfold"
 tags = [
     "markdown",
     "css",
