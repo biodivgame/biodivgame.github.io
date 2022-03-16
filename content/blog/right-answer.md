@@ -21,7 +21,7 @@ aliases = ["migrate-from-jekyl"]
 ##### <center> The next question can be found [TODO INSERT HINT] </center>
 
 
-<img src="images/sheep_clapping.gif" alt="sheep clapping" /> 
+<img src="../images/sheep_clapping.gif" alt="sheep clapping" /> 
 <!--more-->
 
 #### <center> Eager to learn more? </center>
