@@ -1,75 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://biodivgame.github.io/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodivgame.github.io/blog/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodivgame.github.io/categories/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodivgame.github.io/blog/right-answer/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodivgame.github.io/tags/css/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodivgame.github.io/tags/html/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodivgame.github.io/tags/markdown/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodivgame.github.io/categories/syntax/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodivgame.github.io/tags/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodivgame.github.io/categories/themes/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://biodivgame.github.io/blog/entrance_info/entrance-info/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biodivgame.github.io/blog/question-set-1/question-1_01/question-1_01/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biodivgame.github.io/blog/question-set-1/question-1_02/question-1_02/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biodivgame.github.io/blog/question-set-1/question-1_03/question-1_03/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biodivgame.github.io/blog/question-set-1/question-1_04/question-1_04/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biodivgame.github.io/blog/question-set-1/question-1_05/question-1_05/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biodivgame.github.io/blog/question-set-1/question-1_06/question-1_06/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biodivgame.github.io/blog/question-set-1/question-1_07/question-1_07/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biodivgame.github.io/blog/question-set-1/question-1_08/question-1_08/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biodivgame.github.io/blog/question-set-1/question-1_09/question-1_09/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biodivgame.github.io/blog/question-set-1/question-1_10/question-1_10/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biodivgame.github.io/blog/question-set-1/question-1_11/question-1_11/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://biodivgame.github.io/blog/question-set-1/question-1_12/question-1_12/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://biodivgame.github.io/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodivgame.github.io/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodivgame.github.io/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://biodivgame.github.io/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
-  
 </urlset>
