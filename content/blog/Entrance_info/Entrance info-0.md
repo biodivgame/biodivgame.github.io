@@ -1,8 +1,8 @@
 +++
-author = "Hugo authors"
-title = "Entrance information / Informasjon ved inngangen"
+author = "Elias"
+title = "Entrance info / Informasjon ved inngangen"
 date = "2022-03-19"
-description = "Entrance information about the biodiversity game / Informasjon ved inngangen om spillet om biologisk mangfold"
+description = "Entrance info / Informasjon ved inngangen"
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
@@ -16,12 +16,17 @@ If you want to start, find the stake near the place where the insects can *check
 
 For more/official info about the park, take a look at [the official web page](https://www.ntnu.edu/museum/ringve-botanical-garden).
 
-HERE SHOULD BE A PHOTO OF THE MAP
+
+HERE SHOULD BE A PHOTO
+Test
 
 ![Thereisimagetest123](/img/arboretum.jpg)
+
 
 Velkommen til vårt spill om biologisk mangfold!
 Dette spillet foregår inne i, og rett utenfor, Arboretumet.
 Spillet består av å følge hint og QR-koder gjennom en rute vi har staket ut for å svare på spørsmål om arter, biologisk mangfold og liknende tema.
 Vil du starte spillet, dra til dit insektene *sjekker inn* for vinteren! 
+
+
 
