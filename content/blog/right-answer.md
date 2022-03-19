@@ -3,15 +3,6 @@ author = "Hugo Authors"
 title = "Correct! Great job!"
 date = "2022-03-16"
 description = "Screen for accepting correct answers in the biodiversity game."
-tags = [
-    "markdown",
-    "css",
-    "html",
-]
-categories = [
-    "themes",
-    "syntax",
-]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++

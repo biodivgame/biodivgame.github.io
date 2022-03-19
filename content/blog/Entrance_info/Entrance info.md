@@ -1,17 +1,8 @@
 +++
 author = "Hugo authors"
 title = "Entrance information / Informasjon ved inngangen"
-date = "2022-03-10"
+date = "2022-03-19"
 description = "Entrance information about the biodiversity game / Informasjon ved inngangen om spillet om biologisk mangfold"
-tags = [
-    "markdown",
-    "css",
-    "html",
-]
-categories = [
-    "themes",
-    "syntax",
-]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
@@ -34,5 +25,3 @@ Dette spillet foregår inne i, og rett utenfor, Arboretumet.
 Spillet består av å følge hint og QR-koder gjennom en rute vi har staket ut for å svare på spørsmål om arter, biologisk mangfold og liknende tema.
 Vil du starte spillet, dra til dit insektene *sjekker inn* for vinteren! 
 
-
-Fix these "related posts"-things
