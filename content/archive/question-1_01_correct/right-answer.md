@@ -1,6 +1,6 @@
 +++
 author = "Hugo Authors"
-title = "Correct! Great job! (Q_1_1)"
+title = "Correct! Great job! (Q_1_01)"
 date = "2022-02-22"
 description = "Screen for accepting correct answers in the biodiversity game."
 series = ["Themes Guide"]

@@ -59,10 +59,8 @@ Which of these materials can be used to build an insect hotel at home? - Old log
       <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://biodivgame.github.io/archive/question-1_02/question-1_02/</guid>
-      <description>This is question template, welcome to post n. See norwegian below the photo
-Question! Possible answer 1 Possible answer 2 Possible answer 3 Possible answer 4 If answer k is correct, link to Minas &amp;ldquo;correct answer&amp;rdquo;-page. If not, link to the &amp;ldquo;wrong answer, you need a hint&amp;rdquo;-page.
-HERE SHOULD BE A PHOTO Test
-Spørsmål! Possible answer 1 Possible answer 2 Possible answer 3 Possible answer 4 If answer k is correct, link to Minas &amp;ldquo;correct answer&amp;rdquo;-page.</description>
+      <description>Welcome to the hillside! Here we have a question about food.
+Many (local) vegetables, fruits, grains and legumes like beans, peas, and potatoes emit around 0.5 kilograms of CO2 per 1000 kcal when produced. For eggs, this number is around 1 kilogram of CO2 per 1000 kcal. How many kilograms CO2 per kcal does beef (storfekjøtt) emit? - About 20 times the amount as for beans. 10.4 kg CO2 per 1000 kcal.</description>
     </item>
     
     <item>
@@ -398,12 +396,21 @@ Spørsmål! Possible answer 1 Possible answer 2 Possible answer 3 Possible answe
     </item>
     
     <item>
-      <title>Correct! Great job! (Q_1_1)</title>
+      <title>Correct! Great job! (Q_1_01)</title>
       <link>https://biodivgame.github.io/archive/question-1_01_correct/right-answer/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://biodivgame.github.io/archive/question-1_01_correct/right-answer/</guid>
       <description>Congratulations!  Your answer was correct. In fact, all the answers were correct! You can use most materials for insect hotels!  The next question can be found [TODO INSERT HINT]  Eager to learn more?  Most materials can be used to build insect hotels, most important is it to give the insects shelter and safe space. Try not to paint or laquer your hotel, as the insects might be sceptical towards the chemicals.</description>
+    </item>
+    
+    <item>
+      <title>Correct! Great job! (Q_1_02)</title>
+      <link>https://biodivgame.github.io/archive/question-1_02_correct/right-answer/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://biodivgame.github.io/archive/question-1_02_correct/right-answer/</guid>
+      <description>Congratulations!  Your answer was correct. The production of beef emits large amounts of CO2 per 1000 kcal, suggesting that eating less beef (or quitting beef totally) is the most eco-friendly.  The next question can be found [TODO INSERT HINT]  Eager to learn more?   For a more complete list of emissions, take a look here.  WHO has a list of what should be included in a healthy diet, suggesting that vegetarian and mediterranian diets are the most healthy, both for you and for the environment.</description>
     </item>
     
     <item>
@@ -413,6 +420,15 @@ Spørsmål! Possible answer 1 Possible answer 2 Possible answer 3 Possible answe
       
       <guid>https://biodivgame.github.io/archive/question-2_01_correct/right-answer/</guid>
       <description>Congratulations!  Your answer was correct. The south wall is usually the warmest, which insects are quite fond of.  The next question can be found [TODO INSERT HINT]  Eager to learn more?  Most materials can be used to build insect hotels, most important is it to give the insects shelter and safe space. Try not to paint or laquer your hotel, as the insects might be sceptical towards the chemicals.</description>
+    </item>
+    
+    <item>
+      <title>Sorry, wrong answer! (Q_2_01)</title>
+      <link>https://biodivgame.github.io/archive/question-1_02_false/wrong-answer/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://biodivgame.github.io/archive/question-1_02_false/wrong-answer/</guid>
+      <description>We&amp;rsquo;re sorry!  Your answer was not correct. Try again here! Eager to learn more?  For a more complete list of emissions, take a look here.  WHO has a list of what should be included in a healthy diet, suggesting that vegetarian and mediterranian diets are the most healthy, both for you and for the environment.  </description>
     </item>
     
     <item>
