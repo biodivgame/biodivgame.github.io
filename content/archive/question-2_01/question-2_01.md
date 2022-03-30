@@ -13,9 +13,9 @@ Welcome to the insect hotel!
 ### If you were to make a insect hotel yourself, at which wall should you place it?
 
 
-#### - <center> [North wall](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
-#### - <center> [East wall](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
-#### - <center> [South wall](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
-#### - <center> [West wall](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
+#### - <center> [North wall](https://biodivgame.github.io/archive/question-2_01_false/wrong-answer/) </center>
+#### - <center> [East wall](https://biodivgame.github.io/archive/question-2_01_false/wrong-answer/) </center>
+#### - <center> [South wall](https://biodivgame.github.io/archive/question-2_01_correct/right-answer/) </center>
+#### - <center> [West wall](https://biodivgame.github.io/archive/question-2_01_false/wrong-answer/) </center>
 
 ![Designed by Natalie Field](/img/insect-hotel.jpg)

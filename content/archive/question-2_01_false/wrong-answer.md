@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "Sorry, wrong answer! (Q_2_01)"
-date = "2022-02-22"
+date = "2022-02-21"
 description = "Screen for returning wrong answers in the biodiversity game."
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]

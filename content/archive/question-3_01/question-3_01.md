@@ -7,34 +7,15 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This is question template, welcome to post n. See norwegian below the photo
+Welcome to the insect hotel!
 
 
-
-## Question!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-HERE SHOULD BE A PHOTO
-Test
-
-![Thereisimagetest123](/img/arboretum.jpg)
+### Do we need to move the insect hotel inside during winter?
 
 
-## Spørsmål!
+#### - <center> [Yes](https://biodivgame.github.io/archive/question-2_01_false/wrong-answer/) </center>
+#### - <center> [No](https://biodivgame.github.io/archive/question-2_01_false/wrong-answer/) </center>
+#### - <center> [Only if a snow storm is coming](https://biodivgame.github.io/archive/question-2_01_correct/right-answer/) </center>
+#### - <center> [Only if it's below -20 degrees](https://biodivgame.github.io/archive/question-2_01_false/wrong-answer/) </center>
 
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-Fix these "related posts"-things
+![Designed by Natalie Field](/img/insect-hotel.jpg)	
