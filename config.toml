@@ -14,7 +14,7 @@ theme = "hugo-sustain"
 [params]
   avatar = "img/arboretum.jpg"
   author = "BI2098 - EiT Group 1"
-  description = "Describe your website"
+  description = "We made a small website for our QR-code game at Ringve Botanical Garden in Trondheim."
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
