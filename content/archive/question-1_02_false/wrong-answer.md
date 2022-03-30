@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
-title = "Sorry, wrong answer! (Q_2_01)"
-date = "2022-02-21"
+title = "Sorry, wrong answer! (Q_1_02)"
+date = "2022-02-22"
 description = "Screen for returning wrong answers in the biodiversity game."
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
@@ -9,7 +9,7 @@ aliases = ["migrate-from-jekyl"]
 
 ### <center> We're sorry! </center>
 #### <center> Your answer was not correct. 
-###### [Try again here!](https://biodivgame.github.io/archive/question-3_01/question-3_01/)
+###### [Try again here!](https://biodivgame.github.io/archive/question-1_02/question-1_02/)
 
 ![Designed by Natalie Field](/img/cherry-blossoms.jpg)
 

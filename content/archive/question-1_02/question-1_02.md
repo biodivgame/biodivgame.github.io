@@ -14,9 +14,9 @@ Welcome to the hillside! Here we have a question about food.
 #### How many kilograms CO2 per kcal does beef (storfekjøtt) emit?
 
 
-##### - <center> [About 20 times the amount as for beans. 10.4 kg CO2 per 1000 kcal. ](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
-##### - <center> [About 9 times the amount as for beans. 4.7 kg CO2 per 1000 kcal.](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
-##### - <center> [About 14 times the amount as for beans. 7.3 kg CO2 per 1000 kcal. ](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
-##### - <center> [Over 26 times the amount as for beans. 13.6 kg CO2 per 1000 kcal.](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
+##### - <center> [About 20 times the amount as for beans. 10.4 kg CO2 per 1000 kcal. ](https://biodivgame.github.io/archive/question-1_02_false/wrong-answer/) </center>
+##### - <center> [About 9 times the amount as for beans. 4.7 kg CO2 per 1000 kcal.](https://biodivgame.github.io/archive/question-1_02_false/wrong-answer/) </center>
+##### - <center> [About 14 times the amount as for beans. 7.3 kg CO2 per 1000 kcal. ](https://biodivgame.github.io/archive/question-1_02_false/wrong-answer/) </center>
+##### - <center> [Over 26 times the amount as for beans. 13.6 kg CO2 per 1000 kcal.](https://biodivgame.github.io/archive/question-1_02_correct/right-answer/) </center>
 
 ![Thereisimagetest123](/img/cherry-blossoms.jpg)

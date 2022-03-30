@@ -7,34 +7,14 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This is question template, welcome to post n. See norwegian below the photo
+Welcome to the hillside! Here we have a question about food.
+
+#### If we assume a shopping bag full of groceries on average weigh one kg (1kg), how many shopping bags of eatable food did an average norwegian citizen throw in 2015-2016?
 
 
+##### - <center> [About 13 shopping bags of eatable food.](https://biodivgame.github.io/archive/question-2_02_false/wrong-answer/) </center>
+##### - <center> [About 43 shopping bags of eatable food.](https://biodivgame.github.io/archive/question-2_02_correct/right-answer/) </center>
+##### - <center> [About 36 shopping bags of eatable food.](https://biodivgame.github.io/archive/question-2_02_false/wrong-answer/) </center>
+##### - <center> [About 21 shopping bags of eatable food.](https://biodivgame.github.io/archive/question-2_02_false/wrong-answer/) </center>
 
-## Question!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-HERE SHOULD BE A PHOTO
-Test
-
-![Thereisimagetest123](/img/arboretum.jpg)
-
-
-## Spørsmål!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-Fix these "related posts"-things
+![Thereisimagetest123](/img/cherry-blossoms.jpg)

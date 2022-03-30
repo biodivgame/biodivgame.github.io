@@ -7,34 +7,13 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This is question template, welcome to post n. See norwegian below the photo
+Welcome to the hillside! Here we have a question about food.
 
+#### We throw a lot of food in Norway. How many people could we have fed if we halved the food waste in the country?
 
+##### - <center> [About 500 000 people, which is more than the total population of Trøndelag per 2020.](https://biodivgame.github.io/archive/question-3_02_correct/right-answer/) </center>
+##### - <center> [About 200 000 people, which is more than the total population of Trondheim per 2020.](https://biodivgame.github.io/archive/question-3_02_false/wrong-answer/) </center>
+##### - <center> [About 370 000 people, which is about the population of Innlandet County per 2021.](https://biodivgame.github.io/archive/question-3_02_false/wrong-answer/) </center>
+##### - <center> [About 1 000 000 people, which is about the population of Oslo per 2021.](https://biodivgame.github.io/archive/question-3_02_false/wrong-answer/) </center>
 
-## Question!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-HERE SHOULD BE A PHOTO
-Test
-
-![Thereisimagetest123](/img/arboretum.jpg)
-
-
-## Spørsmål!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-Fix these "related posts"-things
+![Thereisimagetest123](/img/cherry-blossoms.jpg)
