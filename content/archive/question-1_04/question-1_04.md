@@ -7,34 +7,14 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This is question template, welcome to post n. See norwegian below the photo
+Welcome! Here we have a question about alien and invasive species!
+
+#### Sitkagran (Sitka spruce) is an alien species in Norway. Is it unwanted here, and if so, why?
 
 
+##### - <center> [Unwanted. They are fragile and die when we plant them in norwegian territory.](https://biodivgame.github.io/archive/question-1_04_false/wrong-answer/) </center>
+##### - <center> [Unwanted. It spreads easily, dominates natural species and prevents other species to grow on the ground close to the trees.](https://biodivgame.github.io/archive/question-1_04_correct/right-answer/) </center>
+##### - <center> [Barely wanted. The seeds spread easily and nourish the fields they land on, making Sitkagran a positive contribution to the biodiversity.](https://biodivgame.github.io/archive/question-1_04_false/wrong-answer/) </center>
+##### - <center> [Wanted. We love Sitkagran (Sitka spruce) in Norway!](https://biodivgame.github.io/archive/question-1_04_false/wrong-answer/) </center>
 
-## Question!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-HERE SHOULD BE A PHOTO
-Test
-
-![Thereisimagetest123](/img/arboretum.jpg)
-
-
-## Spørsmål!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-Fix these "related posts"-things
+![Thereisimagetest123](/img/sitka.jpg)	

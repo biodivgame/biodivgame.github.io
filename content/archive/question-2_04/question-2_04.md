@@ -7,34 +7,14 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This is question template, welcome to post n. See norwegian below the photo
+Welcome! Here we have a question about alien and invasive species!
+
+#### How many alien species (from 2018) are on the norwegian list of species causing high risk to the norwegian biodiversity? How many alien species are listed in total?
 
 
+##### - <center> [Around 1500 causing high risk, 3100 foreign species in total](https://biodivgame.github.io/archive/question-2_04_false/wrong-answer/) </center>
+##### - <center> [Around 230 causing high risk, 1500 foreign species in total](https://biodivgame.github.io/archive/question-2_04_correct/right-answer/) </center>
+##### - <center> [Around 300 causing high risk, 1200 foreign species in total](https://biodivgame.github.io/archive/question-2_04_false/wrong-answer/) </center>
+##### - <center> [Around 80 causing high risk, 230 foreign species in total](https://biodivgame.github.io/archive/question-2_04_false/wrong-answer/) </center>
 
-## Question!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-HERE SHOULD BE A PHOTO
-Test
-
-![Thereisimagetest123](/img/arboretum.jpg)
-
-
-## Spørsmål!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-Fix these "related posts"-things
+![Thereisimagetest123](/img/sitka.jpg)	
