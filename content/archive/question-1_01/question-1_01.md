@@ -14,9 +14,9 @@ Welcome to the insect hotel!
 ### Which of these materials can be used to build an insect hotel at home?
 
 
-#### - [Old logs](alternative1)
-#### - [Pine cones](alternative2)
-#### - [Bricks](alternative3)
-#### - [Bamboo stems](alternative4)
+#### - <center> [Old logs](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
+#### - <center> [Pine cones](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
+#### - <center> [Bricks](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
+#### - <center> [Bamboo stems](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
 
 ![Thereisimagetest123](/img/insect-hotel.jpg)

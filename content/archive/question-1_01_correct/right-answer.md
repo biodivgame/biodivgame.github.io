@@ -8,8 +8,9 @@ aliases = ["migrate-from-jekyl"]
 +++
 
 ### <center> Congratulations! </center>
-#### <center> Your answer was correct. In fact, all the answers were correct! </center>
-##### <center> The next question can be found [TODO INSERT HINT] </center>
+#### <center> Your answer was correct. 
+##### In fact, all the answers were correct! You can use most materials for insect hotels! </center>
+###### <center> The next question can be found [TODO INSERT HINT] </center>
 
 ![Designed by Natalie Field](/img/insect-hotel.jpg)
 
