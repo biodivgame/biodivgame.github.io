@@ -7,34 +7,15 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This is question template, welcome to post n. See norwegian below the photo
+Welcome to the insect hotel!
 
 
-
-## Question!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-HERE SHOULD BE A PHOTO
-Test
-
-![Thereisimagetest123](/img/arboretum.jpg)
+### If you were to make a insect hotel yourself, at which wall should you place it?
 
 
-## Spørsmål!
+#### - <center> [North wall](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
+#### - <center> [East wall](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
+#### - <center> [South wall](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
+#### - <center> [West wall](https://biodivgame.github.io/archive/question-1_01_correct/right-answer/) </center>
 
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-Fix these "related posts"-things
+![Designed by Natalie Field](/img/insect-hotel.jpg)

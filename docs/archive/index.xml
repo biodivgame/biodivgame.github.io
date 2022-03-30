@@ -167,10 +167,8 @@ Spørsmål! Possible answer 1 Possible answer 2 Possible answer 3 Possible answe
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://biodivgame.github.io/archive/question-2_01/question-2_01/</guid>
-      <description>This is question template, welcome to post n. See norwegian below the photo
-Question! Possible answer 1 Possible answer 2 Possible answer 3 Possible answer 4 If answer k is correct, link to Minas &amp;ldquo;correct answer&amp;rdquo;-page. If not, link to the &amp;ldquo;wrong answer, you need a hint&amp;rdquo;-page.
-HERE SHOULD BE A PHOTO Test
-Spørsmål! Possible answer 1 Possible answer 2 Possible answer 3 Possible answer 4 If answer k is correct, link to Minas &amp;ldquo;correct answer&amp;rdquo;-page.</description>
+      <description>Welcome to the insect hotel!
+If you were to make a insect hotel yourself, at which wall should you place it? - North wall  - East wall  - South wall  - West wall  </description>
     </item>
     
     <item>
@@ -408,6 +406,33 @@ Spørsmål! Possible answer 1 Possible answer 2 Possible answer 3 Possible answe
       
       <guid>https://biodivgame.github.io/archive/question-1_01_correct/right-answer/</guid>
       <description>Congratulations!  Your answer was correct. In fact, all the answers were correct! You can use most materials for insect hotels!  The next question can be found [TODO INSERT HINT]  Eager to learn more?  Most materials can be used to build insect hotels, most important is it to give the insects shelter and safe space. Try not to paint or laquer your hotel, as the insects might be sceptical towards the chemicals.</description>
+    </item>
+    
+    <item>
+      <title>Sorry, wrong answer! (Q_2_01)</title>
+      <link>https://biodivgame.github.io/archive/question-2_01_false/right-answer/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://biodivgame.github.io/archive/question-2_01_false/right-answer/</guid>
+      <description>We&amp;rsquo;re sorry!  Your answer was not correct. This is not the wall where the insects are the happiest.  Try again here! Eager to learn more?  Most materials can be used to build insect hotels, most important is it to give the insects shelter and safe space. Try not to paint or laquer your hotel, as the insects might be sceptical towards the chemicals.  Learn how to build an insect hotel!</description>
+    </item>
+    
+    <item>
+      <title>Sorry, wrong answer! (Q_2_01)</title>
+      <link>https://biodivgame.github.io/archive/question-2_01_false/wrong-answer/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://biodivgame.github.io/archive/question-2_01_false/wrong-answer/</guid>
+      <description>We&amp;rsquo;re sorry!  Your answer was not correct. This is not the wall where the insects are the happiest.  Try again here! Eager to learn more?  Most materials can be used to build insect hotels, most important is it to give the insects shelter and safe space. Try not to paint or laquer your hotel, as the insects might be sceptical towards the chemicals.  Learn how to build an insect hotel!</description>
+    </item>
+    
+    <item>
+      <title>Correct! Great job! (Q_2_01)</title>
+      <link>https://biodivgame.github.io/archive/question-2_01_correct/right-answer/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://biodivgame.github.io/archive/question-2_01_correct/right-answer/</guid>
+      <description>Congratulations!  Your answer was correct. The south wall is usually the warmest, which insects are quite fond of.  The next question can be found [TODO INSERT HINT]  Eager to learn more?  Most materials can be used to build insect hotels, most important is it to give the insects shelter and safe space. Try not to paint or laquer your hotel, as the insects might be sceptical towards the chemicals.</description>
     </item>
     
   </channel>
