@@ -9,7 +9,7 @@ aliases = ["migrate-from-jekyl"]
 
 ### <center> We're sorry! </center>
 #### <center> Your answer was not correct. 
-###### [Try again here!](https://biodivgame.github.io/archive/question-2_01/question-2_01/)
+###### [Try again here!](https://biodivgame.github.io/archive/question-3_01/question-3_01/)
 
 ![Designed by Natalie Field](/img/insect-hotel.jpg)
 
