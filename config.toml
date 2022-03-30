@@ -21,28 +21,17 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "username"
+  Github        = "biodivgame"
   Email         = "email@example.com"
-  Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
-  RSS           = "/blog/index.xml"
 
 ## Main Menu
 [[menu.main]]
-  name = "blog"
+  name = "archive"
   weight = 100
-  identifier = "blog"
-  url = "/blog/"
+  identifier = "archive"
+  url = "/archive/"
 [[menu.main]]
-  name = "projects"
-  identifier = "projects"
+  name = "about"
+  identifier = "about"
   weight = 200
-  url = "/projects/"
-[[menu.main]]
-  name = "resume"
-  identifier = "resume"
-  weight = 300
-  url = "/resume/"
+  url = "/about/"

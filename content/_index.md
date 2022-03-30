@@ -9,7 +9,7 @@ in Trondheim.
 
 
 
-[projects]: /projects
+[about]: /about/
 [resume]: https://demo.nurlan.co/hugo-vitae/
 [@username]: https://twitter.com/username
 [email]: mailto:email@example.com
