@@ -69,10 +69,8 @@ Many (local) vegetables, fruits, grains and legumes like beans, peas, and potato
       <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://biodivgame.github.io/archive/question-1_03/question-1_03/</guid>
-      <description>This is question template, welcome to post n. See norwegian below the photo
-Question! Possible answer 1 Possible answer 2 Possible answer 3 Possible answer 4 If answer k is correct, link to Minas &amp;ldquo;correct answer&amp;rdquo;-page. If not, link to the &amp;ldquo;wrong answer, you need a hint&amp;rdquo;-page.
-HERE SHOULD BE A PHOTO Test
-Spørsmål! Possible answer 1 Possible answer 2 Possible answer 3 Possible answer 4 If answer k is correct, link to Minas &amp;ldquo;correct answer&amp;rdquo;-page.</description>
+      <description>Welcome! Here we have a question about trees!
+How many species of trees are there in the world? - About 30 000  - About 40 000  - About 60 000  - About 50 000  </description>
     </item>
     
     <item>
@@ -185,10 +183,8 @@ If we assume a shopping bag full of groceries on average weigh one kg (1kg), how
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://biodivgame.github.io/archive/question-2_03/question-2_03/</guid>
-      <description>This is question template, welcome to post n. See norwegian below the photo
-Question! Possible answer 1 Possible answer 2 Possible answer 3 Possible answer 4 If answer k is correct, link to Minas &amp;ldquo;correct answer&amp;rdquo;-page. If not, link to the &amp;ldquo;wrong answer, you need a hint&amp;rdquo;-page.
-HERE SHOULD BE A PHOTO Test
-Spørsmål! Possible answer 1 Possible answer 2 Possible answer 3 Possible answer 4 If answer k is correct, link to Minas &amp;ldquo;correct answer&amp;rdquo;-page.</description>
+      <description>Welcome! Here we have a question about trees!
+Through which process does trees and other green plants get their energy to grow? - Transpiration  - Gulcolytic cycle  - Photosynthesis  - Algaeic thesis  </description>
     </item>
     
     <item>
@@ -301,10 +297,8 @@ We throw a lot of food in Norway. How many people could we have fed if we halved
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://biodivgame.github.io/archive/question-3_03/question-3_03/</guid>
-      <description>This is question template, welcome to post n. See norwegian below the photo
-Question! Possible answer 1 Possible answer 2 Possible answer 3 Possible answer 4 If answer k is correct, link to Minas &amp;ldquo;correct answer&amp;rdquo;-page. If not, link to the &amp;ldquo;wrong answer, you need a hint&amp;rdquo;-page.
-HERE SHOULD BE A PHOTO Test
-Spørsmål! Possible answer 1 Possible answer 2 Possible answer 3 Possible answer 4 If answer k is correct, link to Minas &amp;ldquo;correct answer&amp;rdquo;-page.</description>
+      <description>Welcome! Here we have a question about trees!
+Where in the tree does photosynthesis happen? - In the roots  - Only at the upper top  - In the leaves/the green part  - In the stem  </description>
     </item>
     
     <item>
@@ -410,12 +404,30 @@ Spørsmål! Possible answer 1 Possible answer 2 Possible answer 3 Possible answe
     </item>
     
     <item>
+      <title>Correct! Great job! (Q_1_03)</title>
+      <link>https://biodivgame.github.io/archive/question-1_03_correct/right-answer/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://biodivgame.github.io/archive/question-1_03_correct/right-answer/</guid>
+      <description>Congratulations!  Your answer was correct. A 2017 report states that there are 60.000 known species of trees in our world.  The next question can be found [TODO INSERT HINT]  Eager to learn more?  Trees are fascinating! Unfortunately, some of the trees in the botanical garden needs to be felled due to fungus infection as a consequence of global warming.  If you want to find more interesting facts about trees, see here.</description>
+    </item>
+    
+    <item>
       <title>Sorry, wrong answer! (Q_1_02)</title>
       <link>https://biodivgame.github.io/archive/question-1_02_false/wrong-answer/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://biodivgame.github.io/archive/question-1_02_false/wrong-answer/</guid>
       <description>We&amp;rsquo;re sorry!  Your answer was not correct. Try again here! Eager to learn more?  For a more complete list of emissions, take a look here.  WHO has a list of what should be included in a healthy diet, suggesting that vegetarian and mediterranian diets are the most healthy, both for you and for the environment.  </description>
+    </item>
+    
+    <item>
+      <title>Sorry, wrong answer! (Q_1_03)</title>
+      <link>https://biodivgame.github.io/archive/question-1_03_false/wrong-answer/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://biodivgame.github.io/archive/question-1_03_false/wrong-answer/</guid>
+      <description>We&amp;rsquo;re sorry!  Your answer was not correct. Try again here! Eager to learn more?  Trees are fascinating! Unfortunately, some of the trees in the botanical garden needs to be felled due to fungus infection as a consequence of global warming.  If you want to find more interesting facts about trees, see here. </description>
     </item>
     
     <item>
@@ -437,6 +449,15 @@ Spørsmål! Possible answer 1 Possible answer 2 Possible answer 3 Possible answe
     </item>
     
     <item>
+      <title>Correct! Great job! (Q_2_03)</title>
+      <link>https://biodivgame.github.io/archive/question-2_03_correct/right-answer/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://biodivgame.github.io/archive/question-2_03_correct/right-answer/</guid>
+      <description>Congratulations!  Your answer was correct. Photosynthesis is the biochemical reaction through which all green plants, including trees, make their food to live and grow.  The next question can be found [TODO INSERT HINT]  Eager to learn more?  Trees are fascinating! Unfortunately, some of the trees in the botanical garden needs to be felled due to fungus infection as a consequence of global warming.  If you want to find more interesting facts about trees, see here.</description>
+    </item>
+    
+    <item>
       <title>Sorry, wrong answer! (Q_2_01)</title>
       <link>https://biodivgame.github.io/archive/question-2_01_false/wrong-answer/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
@@ -452,6 +473,15 @@ Spørsmål! Possible answer 1 Possible answer 2 Possible answer 3 Possible answe
       
       <guid>https://biodivgame.github.io/archive/question-2_02_false/wrong-answer/</guid>
       <description>We&amp;rsquo;re sorry!  Your answer was not correct. Try again here! Eager to learn more?   Even though we through a lot of food as consumers, there are large gaps in the statistics, as several industries have no official numbers. Therefore, to be able to find the right actions, shedding light on the topic is truly important.  If you want to read more about throwing food and the missing statistics, look here!</description>
+    </item>
+    
+    <item>
+      <title>Sorry, wrong answer! (Q_2_03)</title>
+      <link>https://biodivgame.github.io/archive/question-2_03_false/wrong-answer/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://biodivgame.github.io/archive/question-2_03_false/wrong-answer/</guid>
+      <description>We&amp;rsquo;re sorry!  Your answer was not correct. Try again here! Eager to learn more?  Trees are fascinating! Unfortunately, some of the trees in the botanical garden needs to be felled due to fungus infection as a consequence of global warming.  If you want to find more interesting facts about trees, see here. </description>
     </item>
     
     <item>
@@ -473,6 +503,15 @@ Spørsmål! Possible answer 1 Possible answer 2 Possible answer 3 Possible answe
     </item>
     
     <item>
+      <title>Correct! Great job! (Q_3_03)</title>
+      <link>https://biodivgame.github.io/archive/question-3_03_correct/right-answer/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://biodivgame.github.io/archive/question-3_03_correct/right-answer/</guid>
+      <description>Congratulations!  Your answer was correct. Photosynthesis takes place in the leaves of the trees, because this is the place where the &amp;ldquo;ingredients&amp;rdquo; needed are.  The next question can be found [TODO INSERT HINT]  Eager to learn more?  Trees are fascinating! Unfortunately, some of the trees in the botanical garden needs to be felled due to fungus infection as a consequence of global warming.  If you want to find more interesting facts about trees, see here.</description>
+    </item>
+    
+    <item>
       <title>Sorry, wrong answer! (Q_3_01)</title>
       <link>https://biodivgame.github.io/archive/question-3_01_false/wrong-answer/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
@@ -488,6 +527,15 @@ Spørsmål! Possible answer 1 Possible answer 2 Possible answer 3 Possible answe
       
       <guid>https://biodivgame.github.io/archive/question-3_02_false/wrong-answer/</guid>
       <description>We&amp;rsquo;re sorry!  Your answer was not correct. Try again here! Eager to learn more?   Even though we through a lot of food as consumers, there are large gaps in the statistics, as several industries have no official numbers. Therefore, to be able to find the right actions, shedding light on the topic is truly important.  If you want to read more about throwing food and the missing statistics, look here!</description>
+    </item>
+    
+    <item>
+      <title>Sorry, wrong answer! (Q_3_03)</title>
+      <link>https://biodivgame.github.io/archive/question-3_03_false/wrong-answer/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://biodivgame.github.io/archive/question-3_03_false/wrong-answer/</guid>
+      <description>We&amp;rsquo;re sorry!  Your answer was not correct. Try again here! Eager to learn more?  Trees are fascinating! Unfortunately, some of the trees in the botanical garden needs to be felled due to fungus infection as a consequence of global warming.  If you want to find more interesting facts about trees, see here.  If you want to read more about photosynthesis, take a look here. </description>
     </item>
     
     <item>

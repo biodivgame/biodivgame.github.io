@@ -7,34 +7,13 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This is question template, welcome to post n. See norwegian below the photo
+Welcome! Here we have a question about trees!
 
+#### Through which process does trees and other green plants get their energy to grow?
 
+##### - <center> [Transpiration](https://biodivgame.github.io/archive/question-2_03_false/wrong-answer/) </center>
+##### - <center> [Gulcolytic cycle](https://biodivgame.github.io/archive/question-2_03_false/wrong-answer/) </center>
+##### - <center> [Photosynthesis](https://biodivgame.github.io/archive/question-2_03_correct/right-answer/) </center>
+##### - <center> [Algaeic thesis](https://biodivgame.github.io/archive/question-2_03_false/wrong-answer/) </center>
 
-## Question!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-HERE SHOULD BE A PHOTO
-Test
-
-![Thereisimagetest123](/img/arboretum.jpg)
-
-
-## Spørsmål!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-Fix these "related posts"-things
+![Thereisimagetest123](/img/fungus.jpg)
