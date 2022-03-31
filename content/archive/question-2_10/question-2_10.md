@@ -7,34 +7,14 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This is question template, welcome to post n. See norwegian below the photo
+Welcome to the center of the Arboretum, which represents the north pole! Here we have a question about the arctic and species found there!
+
+#### How much has the temperature increased in the Arctic, compared to the rest of the world?
+
+##### - <center> [Twice as much](https://biodivgame.github.io/archive/question-1_10_false/wrong-answer/) </center>
+##### - <center> [Half as much](https://biodivgame.github.io/archive/question-1_10_false/wrong-answer/) </center>
+##### - <center> [Three times as much](https://biodivgame.github.io/archive/question-1_10_correct/right-answer/) </center>
+##### - <center> [Equally](https://biodivgame.github.io/archive/question-1_10_false/wrong-answer/) </center>
 
 
-
-## Question!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-HERE SHOULD BE A PHOTO
-Test
-
-![Thereisimagetest123](/img/arboretum.jpg)
-
-
-## Spørsmål!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-Fix these "related posts"-things
+![Thereisimagetest123](/img/north-pole.jpg)	

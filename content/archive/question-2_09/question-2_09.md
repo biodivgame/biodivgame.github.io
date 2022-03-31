@@ -7,34 +7,14 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This is question template, welcome to post n. See norwegian below the photo
+Welcome! Here we have a question about some mammals!
+
+#### How long does crow couples usually stick together?
+
+##### - <center> [until the chicks are grown](https://biodivgame.github.io/archive/question-2_09_false/wrong-answer/) </center>
+##### - <center> [Their entire lives](https://biodivgame.github.io/archive/question-2_09_correct/right-answer/) </center>
+##### - <center> [they don't stick toether](https://biodivgame.github.io/archive/question-2_09_false/wrong-answer/) </center>
+##### - <center> [Until the eggs are done](https://biodivgame.github.io/archive/question-2_09_false/wrong-answer/) </center>
 
 
-
-## Question!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-HERE SHOULD BE A PHOTO
-Test
-
-![Thereisimagetest123](/img/arboretum.jpg)
-
-
-## Spørsmål!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-Fix these "related posts"-things
+![Thereisimagetest123](/img/nucifraga.jpg)	

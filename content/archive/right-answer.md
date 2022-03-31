@@ -5,6 +5,7 @@ date = "2022-03-16"
 description = "Screen for accepting correct answers in the biodiversity game."
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
+draft = true
 +++
 
 ### <center> Congratulations! </center>
