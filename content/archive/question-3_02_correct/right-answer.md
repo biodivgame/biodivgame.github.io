@@ -10,8 +10,10 @@ aliases = ["migrate-from-jekyl"]
 ### <center> Congratulations! </center>
 #### <center> Your answer was correct. 
 ##### We throw a lot of food, usually because we follow the "best before" date strictly instead of evaluating in each case whether or not the food is good or bad.</center>
-###### <center> The next question can be found by following this hint:
-######## From the dying tree a bear was born, find the artwork carved with a chainsaw by Oliver Vogt in 2018 in response to trees felled due to fungus infection. </center>
+
+###### <center> The next question can be found by following this hint: </center>
+###### **From the dying tree a bear was born! When Purpuredelgran (Abies amabilis) could stand no more due to a fungus infection, Oliver Vogt came with his chainsaw to carve it into perfection! **
+
 
 ![Designed by Natalie Field](/img/cherry-blossoms.jpg)
 

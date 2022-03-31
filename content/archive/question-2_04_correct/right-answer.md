@@ -10,7 +10,9 @@ aliases = ["migrate-from-jekyl"]
 ### <center> Congratulations! </center>
 #### <center> Your answer was correct. 
 ##### There are (per 2018) around 230 causing high risk and 1500 foreign species in total. </center>
-###### <center> The next question can be found [TODO INSERT HINT] </center>
+
+###### <center> The next question can be found by following this hint: </center>
+###### **Now you find yourself in the arboretum. Head south-east along the path to make your way to the Blågran (Picea pungens) which plays host to seven species of lichen! Look closely, can you find them? **
 
 ![Designed by Natalie Field](/img/sitka.jpg)
 

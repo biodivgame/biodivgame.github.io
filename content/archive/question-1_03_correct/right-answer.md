@@ -10,7 +10,10 @@ aliases = ["migrate-from-jekyl"]
 ### <center> Congratulations! </center>
 #### <center> Your answer was correct. 
 ##### A 2017 report states that there are 60.000 known species of trees in our world. </center>
-###### <center> The next question can be found [TODO INSERT HINT] </center>
+
+###### <center> The next question can be found by following this hint: </center>
+###### **Introduced to Norway in the 19th century as a lumber tree, the Sitkagran (Picea sitchensis) is the largest spruce in the world, growing to almost 100 meters tall! But sadly where it’s needles fall, you’ll find no trace of life at all. **
+
 
 ![Designed by Natalie Field](/img/fungus.jpg)
 

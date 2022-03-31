@@ -10,7 +10,9 @@ aliases = ["migrate-from-jekyl"]
 ### <center> Congratulations! </center>
 #### <center> Your answer was correct. 
 ##### The south wall is usually the warmest, which insects are quite fond of. </center>
-###### <center> The next question can be found [TODO INSERT HINT] </center>
+
+###### <center> The next question can be found by following this hint: </center>
+###### **To the two-tree-wonder at the orchard gardens edge! Where the Siberian Apricot (Prunus sibirica) is the first to awaken from the Winter slumber, offering Spring blooms to pollinators so they can drink its nectar.  **
 
 ![Designed by Natalie Field](/img/insect-hotel.jpg)
 
