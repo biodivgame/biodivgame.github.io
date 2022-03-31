@@ -7,34 +7,14 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This is question template, welcome to post n. See norwegian below the photo
+Welcome! Here we have a question about fungi and mushrooms!
+
+#### Why are fungi/mushrooms important for nature and biodiversity?
+
+##### - <center> [Some species break down organic elements, such as dead plants or trees, and work as natures "recylcer" to bring nutrients back into nature.](https://biodivgame.github.io/archive/question-2_08_correct/right-answer/) </center>
+##### - <center> [Some species act as food for animals, and the animals aid them to reproduce.](https://biodivgame.github.io/archive/question-2_08_correct/right-answer/) </center>
+##### - <center> [Some species act as the "middle man" between plants and the soil, extracting nutrients from the soil trading with the plants.](https://biodivgame.github.io/archive/question-2_08_correct/right-answer/) </center>
+##### - <center> [Some species can be used for research purposes in medicine (e.g. to construct antibiotics).](https://biodivgame.github.io/archive/question-2_08_correct/right-answer/) </center>
 
 
-
-## Question!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-HERE SHOULD BE A PHOTO
-Test
-
-![Thereisimagetest123](/img/arboretum.jpg)
-
-
-## Spørsmål!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-Fix these "related posts"-things
+![Thereisimagetest123](/img/decomposition.jpg)	

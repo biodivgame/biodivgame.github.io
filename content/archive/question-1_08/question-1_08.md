@@ -7,34 +7,14 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This is question template, welcome to post n. See norwegian below the photo
+Welcome! Here we have a question about fungi and mushrooms!
+
+#### How does fungi/mushrooms help towards fighting environmental issues?
+
+##### - <center> [They help by growing on places where we can't build anything else.](https://biodivgame.github.io/archive/question-1_08_false/wrong-answer/) </center>
+##### - <center> [They help by digesting/breaking down unwanted materials, such as plastic, pollution, dead organic materials and even radiation!](https://biodivgame.github.io/archive/question-1_08_correct/right-answer/) </center>
+##### - <center> [They help by giving us delicious mushrooms we can use to cook!](https://biodivgame.github.io/archive/question-1_08_false/wrong-answer/) </center>
+##### - <center> [They can't help us with these problems.](https://biodivgame.github.io/archive/question-1_08_false/wrong-answer/) </center>
 
 
-
-## Question!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-HERE SHOULD BE A PHOTO
-Test
-
-![Thereisimagetest123](/img/arboretum.jpg)
-
-
-## Spørsmål!
-
-
-### [Possible answer 1](alternative1)
-### [Possible answer 2](alternative2)
-### [Possible answer 3](alternative3)
-### [Possible answer 4](alternative4)
-
-If answer k is correct, link to Minas "correct answer"-page. If not, link to the "wrong answer, you need a hint"-page.
-
-Fix these "related posts"-things
+![Thereisimagetest123](/img/decomposition.jpg)	
