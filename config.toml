@@ -12,7 +12,7 @@ theme = "hugo-sustain"
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "img/arboretum.jpg"
+  avatar = "img/arboretum_mini.jpg"
   author = "BI2098 - EiT Group 1"
   description = "We made a small website for our QR-code game at Ringve Botanical Garden in Trondheim."
 
