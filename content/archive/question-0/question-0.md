@@ -5,6 +5,7 @@ date = "2022-03-18"
 description = "Question 01 / Spørsmål 01"
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
+draft=true
 +++
 
 This is question template, welcome to post n. See norwegian below the photo

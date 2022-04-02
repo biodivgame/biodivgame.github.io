@@ -12,7 +12,7 @@ theme = "hugo-sustain"
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "img/arboretum.jpg"
+  avatar = "img/mapzoomed2.png"
   author = "BI2098 - EiT Group 1"
   description = "We made a small website for our QR-code game at Ringve Botanical Garden in Trondheim."
 
@@ -30,8 +30,4 @@ theme = "hugo-sustain"
   weight = 100
   identifier = "archive"
   url = "/archive/"
-[[menu.main]]
-  name = "about"
-  identifier = "about"
-  weight = 200
-  url = "/about/"
+
