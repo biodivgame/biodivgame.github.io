@@ -19,15 +19,6 @@ theme = "hugo-sustain"
   custom_css = []
   custom_js  = []
 
-[params.social]
-  Github        = "username"
-  Email         = "email@example.com"
-  Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
-  RSS           = "/blog/index.xml"
 
 ## Main Menu
 [[menu.main]]
