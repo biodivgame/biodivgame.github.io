@@ -13,7 +13,7 @@ aliases = ["migrate-from-jekyl"]
 
 
 ###### <center> The next question can be found by following this hint: </center>
-###### **Moving along the windy road, find the birch log (Betula pubescens) where the wild things thrive and the mushrooms grow. **
+###### **Moving along the windy road, find the birch log (Betula pubescens) where the wild things thrive and the mushrooms grow.**
 
 
 ![Designed by Natalie Field](/img/rosalia-batesi.jpg)

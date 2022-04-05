@@ -12,7 +12,7 @@ aliases = ["migrate-from-jekyl"]
 ##### There are actually eitght different types of bear - north american black bear, brown bear, polar bear, asiatic black bear, andean bear, panda bear, sloth bear, and the sun bear.
 
 ###### <center> The next question can be found by following this hint: </center>
-###### **Finally, of to North Pole you go, where you may rest your weary bones. **
+###### **Finally, of to North Pole you go, where you may rest your weary bones.**
 
 
 ![Designed by Natalie Field](/img/nucifraga.jpg)

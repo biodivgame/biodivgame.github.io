@@ -12,7 +12,7 @@ aliases = ["migrate-from-jekyl"]
 
 
 ###### <center> The next question can be found by following this hint: </center>
-###### **Finally, of to North Pole you go, where you may rest your weary bones. **
+###### **Finally, of to North Pole you go, where you may rest your weary bones.**
 
 
 ![Designed by Natalie Field](/img/nucifraga.jpg)

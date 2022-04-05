@@ -13,7 +13,7 @@ aliases = ["migrate-from-jekyl"]
 
 
 ###### <center> The next question can be found by following this hint: </center>
-###### **On and on you must go, to find the meeting point of the squirrel, the sparrow and the crow. Gathering under the Sibirsk sembrafuru (Pinus cembra) bows, they are friends and not foe. **
+###### **On and on you must go, to find the meeting point of the squirrel, the sparrow and the crow. Gathering under the Sibirsk sembrafuru (Pinus cembra) bows, they are friends and not foe.**
 
 
 ![Designed by Natalie Field](/img/decomposition.jpg)

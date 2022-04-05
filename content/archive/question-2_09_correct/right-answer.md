@@ -12,7 +12,7 @@ aliases = ["migrate-from-jekyl"]
 ##### The crow is monogamous and the couples believably stick together their entire lives. The couple build a nest for the family, consisting of sdry twigs, dirt and clay, lined with hair, gras, wool and bark. 
 
 ###### <center> The next question can be found by following this hint: </center>
-###### **Finally, of to North Pole you go, where you may rest your weary bones. **
+###### **Finally, of to North Pole you go, where you may rest your weary bones.**
 
 
 ![Designed by Natalie Field](/img/nucifraga.jpg)

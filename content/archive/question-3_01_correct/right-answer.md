@@ -12,7 +12,7 @@ aliases = ["migrate-from-jekyl"]
 ##### We do not need to move the insect hotel inside during winter! The insects here actually enjoy the norwegian cold, as long as they have shelter and a safe space. </center>
 
 ###### <center> The next question can be found by following this hint: </center>
-###### **To the two-tree-wonder at the orchard gardens edge! Where the Siberian Apricot (Prunus sibirica) is the first to awaken from the Winter slumber, offering Spring blooms to pollinators so they can drink its nectar.  **
+###### **To the two-tree-wonder at the orchard gardens edge! Where the Siberian Apricot (Prunus sibirica) is the first to awaken from the Winter slumber, offering Spring blooms to pollinators so they can drink its nectar.**
 
 ![Designed by Natalie Field](/img/insect-hotel.jpg)
 

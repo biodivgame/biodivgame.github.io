@@ -13,7 +13,7 @@ aliases = ["migrate-from-jekyl"]
 
 
 ###### <center> The next question can be found by following this hint: </center>
-###### **Continue along the path until you meet the wise old owl. Follow his steady gaze across your way to find the Flagspett nest in the Gråor (Salix Incana) tree, it looks more like a hollow!  **
+###### **Continue along the path until you meet the wise old owl. Follow his steady gaze across your way to find the Flagspett nest in the Gråor (Salix Incana) tree, it looks more like a hollow!**
 
 
 ![Designed by Natalie Field](/img/rosalia-batesi.jpg)

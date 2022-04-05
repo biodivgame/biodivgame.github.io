@@ -11,7 +11,7 @@ aliases = ["migrate-from-jekyl"]
 #### <center> Your answer was correct. 
 
 ###### <center> The next question can be found by following this hint: </center>
-###### **Pass the wooden rabbit to find logs of the Svartgran (Picea Mariana) with mysterious hieroglyphs engraved into their surface! These patterns are actually the paths of the larvae of the trebukk beetle as it feasts upon dead wood! **
+###### **Pass the wooden rabbit to find logs of the Svartgran (Picea Mariana) with mysterious hieroglyphs engraved into their surface! These patterns are actually the paths of the larvae of the trebukk beetle as it feasts upon dead wood!**
 
 ![Designed by Natalie Field](/img/lichens.jpg)
 

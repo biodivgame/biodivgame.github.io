@@ -12,7 +12,7 @@ aliases = ["migrate-from-jekyl"]
 ##### Photosynthesis is the biochemical reaction through which all green plants, including trees, make their food to live and grow. </center>
 
 ###### <center> The next question can be found by following this hint: </center>
-###### **Introduced to Norway in the 19th century as a lumber tree, the Sitkagran (Picea sitchensis) is the largest spruce in the world, growing to almost 100 meters tall! But sadly where it’s needles fall, you’ll find no trace of life at all. **
+###### **Introduced to Norway in the 19th century as a lumber tree, the Sitkagran (Picea sitchensis) is the largest spruce in the world, growing to almost 100 meters tall! But sadly where it’s needles fall, you’ll find no trace of life at all.**
 
 ![Designed by Natalie Field](/img/fungus.jpg)
 

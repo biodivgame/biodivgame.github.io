@@ -12,7 +12,7 @@ aliases = ["migrate-from-jekyl"]
 ##### The production of beef emits large amounts of CO2 per 1000 kcal, suggesting that eating less beef (or quitting beef totally) is the most eco-friendly.  </center>
 
 ###### <center> The next question can be found by following this hint: </center>
-###### **From the dying tree a bear was born! When Purpuredelgran (Abies amabilis) could stand no more due to a fungus infection, Oliver Vogt came with his chainsaw to carve it into perfection! **
+###### **From the dying tree a bear was born! When Purpuredelgran (Abies amabilis) could stand no more due to a fungus infection, Oliver Vogt came with his chainsaw to carve it into perfection!**
 
 
 ![Designed by Natalie Field](/img/cherry-blossoms.jpg)

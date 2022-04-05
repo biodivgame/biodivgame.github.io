@@ -12,7 +12,7 @@ aliases = ["migrate-from-jekyl"]
 ##### You should be careful with species you don't know enough about, as you don't know if they are dangerous for you or the biodiversity in your area. </center>
 
 ###### <center> The next question can be found by following this hint: </center>
-###### **Now you find yourself in the arboretum. Head south-east along the path to make your way to the Blågran (Picea pungens) which plays host to seven species of lichen! Look closely, can you find them? **
+###### **Now you find yourself in the arboretum. Head south-east along the path to make your way to the Blågran (Picea pungens) which plays host to seven species of lichen! Look closely, can you find them?**
 
 ![Designed by Natalie Field](/img/sitka.jpg)
 
