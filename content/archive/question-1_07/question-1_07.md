@@ -9,7 +9,7 @@ aliases = ["migrate-from-jekyl"]
 
 Welcome! Here we have a question about woodpeckers!
 
-#### Why does woodpeckers peck wood?
+#### Why do woodpeckers peck wood?
 
 ##### - <center> [It makes loud noise proclaiming territory and contributing towards attracting a mate.](https://biodivgame.github.io/archive/question-1_07_correct/right-answer/) </center>
 ##### - <center> [It wants to dig a nest or a roost hole.](https://biodivgame.github.io/archive/question-1_07_correct/right-answer/) </center>

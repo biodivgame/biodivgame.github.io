@@ -19,5 +19,5 @@ aliases = ["migrate-from-jekyl"]
 
 ### <center> Eager to learn more? </center>
 
-##### <center> Trees are fascinating! Unfortunately, some of the trees in the botanical garden needs to be felled due to fungus infection as a consequence of global warming. </center>
+##### <center> Trees are fascinating! Unfortunately, some of the trees in the botanical garden need to be felled due to fungus infection, which is belived to be a consequence of global warming. </center>
 ##### <center> If you want to find more interesting facts about trees, [see here.](https://www.treehugger.com/facts-about-trees-4868798)

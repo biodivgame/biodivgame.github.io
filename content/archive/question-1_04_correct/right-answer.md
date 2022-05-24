@@ -9,7 +9,7 @@ aliases = ["migrate-from-jekyl"]
 
 ### <center> Congratulations! </center>
 #### <center> Your answer was correct. 
-##### Sitkagran (Sitka spruce) spreads easily and dominates other species. </center>
+##### Sitkagran (Sitka spruce) spreads easily and outcompetes other species. </center>
 
 ###### <center> The next question can be found by following this hint: </center>
 ###### **Now you find yourself in the arboretum. Head south-east along the path to make your way to the Blågran (Picea pungens) which plays host to seven species of lichen! Look closely, can you find them?**

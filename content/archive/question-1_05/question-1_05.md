@@ -7,7 +7,7 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-Welcome! Here we have a question about Lichen!
+Welcome! Here we have a question about Lichen. See if you can find them in the trees around you!
 
 #### On which of these can lichen make their home? (grow on) 
 

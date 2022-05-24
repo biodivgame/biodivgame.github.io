@@ -9,7 +9,7 @@ aliases = ["migrate-from-jekyl"]
 
 ### <center> Congratulations! </center>
 #### <center> Your answer was correct. 
-##### Even though the polar bear is a good swimmer, it is relying on moving on ice to hunt for food, resting and eating. </center>
+##### Even though the polar bear is a good swimmer, it is relying on moving ice to hunt for food, resting and eating. </center>
 
 
 ###### <center> This is the end of the game. Feel free to enjoy the rest of the gardens. If you want to play again (or started midways), follow this hint to get to the first question. </center>

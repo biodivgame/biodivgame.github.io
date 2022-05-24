@@ -20,6 +20,6 @@ aliases = ["migrate-from-jekyl"]
 ### <center> Eager to learn more? </center>
 
 ##### <center> Most materials can be used to build insect hotels, most important is it to give the insects shelter and safe space. Try not to paint or laquer your hotel, as the insects might be sceptical towards the chemicals. </center>
-##### <center> [Learn how to build an insect hotel!](https://www.nhm.uio.no/fakta/botanikk/nyheter/2016/lag-et-insektshotell.html) </center>
+##### <center> [Learn how to build an insect hotel!](https://www.permaculturenews.org/2013/10/08/building-insect-hotel/) </center>
 
 
