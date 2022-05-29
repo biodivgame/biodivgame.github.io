@@ -7,5 +7,8 @@ in Trondheim.
 
 For more information or the map, look [here!]({{< ref "/archive/entranceinfo.md" >}} "info")
 
- 	
+
+*This game was made by
+Natalie Field, Neeraj Mehta, Elias Klakken Angelsen, and Mina Haver.*
+
 [email]: mailto:biodivgame2098@gmail.com

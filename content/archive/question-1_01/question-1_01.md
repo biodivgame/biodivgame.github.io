@@ -9,6 +9,8 @@ aliases = ["migrate-from-jekyl"]
 
 Welcome to the insect hotel!
 
+Insect hotels are a fun and easy way of capacity-building for insects that hibernate through the cold winters. These are especially useful in cities where ground cover, like leaf litter, is often cleared in parks and gardens. Insects like leafcutting bees and ladybirds, like this seven spotted lady-bird found in Norway, Coccinella septempunctata, will possibly make use of the insect hotel.
+
 
 
 ### Which of these materials can be used to build an insect hotel at home?

@@ -9,6 +9,8 @@ aliases = ["migrate-from-jekyl"]
 
 Welcome! Here we have a question about woodpeckers!
 
+What might, at first sight, look like a natural knot or hollow in the tree trunk is actually the nesting spot of a Great Spotted Woodpecker / flaggspett.
+
 #### Why do woodpeckers peck wood?
 
 ##### - <center> [It makes loud noise proclaiming territory and contributing towards attracting a mate.](https://biodivgame.github.io/archive/question-1_07_correct/right-answer/) </center>

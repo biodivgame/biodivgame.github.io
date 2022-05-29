@@ -13,11 +13,13 @@ aliases = ["migrate-from-jekyl"]
 
 
 ###### <center> The next question can be found by following this hint: </center>
-###### **Continue along the path until you meet the wise old owl. Follow his steady gaze across your way to find the Flagspett nest in the Gråor (Salix Incana) tree, it looks more like a hollow!**
+###### **Continue along the path until you meet the wise old owl. Follow his steady gaze across your way to find the Flagspett nest in the Gråor (Alnus incana) tree, it looks more like a hollow!**
 
+For more information or the map, look [here!]({{< ref "/archive/entranceinfo.md" >}} "info")
 
-![Designed by Natalie Field](/img/rosalia-batesi.jpg)
 
 ### <center> Eager to learn more? </center>
 
 ##### Climate change is affecting where bugs live, which in turn affects the ecosystems around the planet. Read more about the incident in Finnmark [here](https://www.nrk.no/tromsogfinnmark/lauvmakken-frostmaler-sprer-seg-mot-arktiske-strok-og-odelegger-traer-og-krattskog-pa-varangerhalvoya-1.14721572).
+
+![Designed by Natalie Field](/img/rosalia-batesi.jpg)

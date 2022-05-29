@@ -9,6 +9,8 @@ aliases = ["migrate-from-jekyl"]
 
 Welcome to the hillside! Here we have a question about food.
 
+This tree is one of the 1st in the garden to blossom in Spring, providing an essential food source for the first pollinators.
+
 
 #### Many (local) vegetables, fruits, grains and legumes like beans, peas, and potatoes emit around 0.5 kilograms of CO2 per 1000 kcal when produced. 
 For eggs, this number is around 1 kilogram of CO2 per 1000 kcal. 

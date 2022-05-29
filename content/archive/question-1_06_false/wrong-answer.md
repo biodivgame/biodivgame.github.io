@@ -11,8 +11,10 @@ aliases = ["migrate-from-jekyl"]
 #### <center> Your answer was not correct. 
 ###### [Try again here!](https://biodivgame.github.io/archive/question-1_06/question-1_06/)
 
-![Designed by Natalie Field](/img/rosalia-batesi.jpg)
+
 
 ### <center> Eager to learn more? </center>
 
 ##### Climate change is affecting where bugs live, which in turn affects the ecosystems around the planet. Read more about the incident in Finnmark [here](https://www.nrk.no/tromsogfinnmark/lauvmakken-frostmaler-sprer-seg-mot-arktiske-strok-og-odelegger-traer-og-krattskog-pa-varangerhalvoya-1.14721572).
+
+![Designed by Natalie Field](/img/rosalia-batesi.jpg)

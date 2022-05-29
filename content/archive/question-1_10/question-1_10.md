@@ -7,7 +7,10 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-Welcome to the center of the Arboretum, which represents the north pole! Here we have a question about the arctic and species found there!
+Welcome to the center of the Arboretum, which represents the North Pole! Here we have a question about the Arctic and species found there!
+
+As shared on Ringve’s website, “The pond in the middle of the facility represents the North Sea. The various trees and shrubs planted around the pond are located according to their distribution in the northern hemisphere. A hike around the pond thus becomes like a hike from continent to continent, from forest type to forest type. Closest to the pond are trees and shrubs that form the forest border to the north in Europe, Siberia and Canada.” Hence, the final destination of the game has been referred to as the “North Pole”.
+
 
 #### How fast can the polar bear swim?
 

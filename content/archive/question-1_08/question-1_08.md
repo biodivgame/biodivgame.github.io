@@ -7,7 +7,10 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-Welcome! Here we have a question about fungi and mushrooms!
+Welcome! Here we have a question about fungi and mushrooms (see fungus growing on the logs to the right)!
+
+While most of the fallen matter in the garden goes into the composting bins to create soil for the garden, these two birch logs have been left out to decompose and are an interesting point of reference for the discussion of decomposition. There were several different kinds of fungi growing on them during our visit, and apparently these change over the course of the year.
+
 
 #### How does fungi/mushrooms help towards fighting environmental issues?
 
